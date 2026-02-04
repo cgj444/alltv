@@ -1,4 +1,4 @@
-CCTV1,http://ipipip/rtp/233.18.204.168:5140
+
 CCTV1,http://ipipip/rtp/233.18.204.52:5140
 CCTV2,http://ipipip/rtp/233.18.204.68:5140
 CCTV3,http://ipipip/rtp/233.18.204.69:5140
